@@ -1,1 +1,1 @@
---since" option for oc adm node-logs command in an OCP 4.2 cluster to see kubelet logs since an specific timestamp?
+oc adm node-logs <hostname> --since='2020-03-30 00:00:00'
