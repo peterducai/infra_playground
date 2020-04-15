@@ -1,0 +1,11 @@
+postgres
+nginx
+traefik
+golang
+haproxy
+fedora
+prom/prometheus
+registry 
+centos
+java
+elcolio/etcd 
